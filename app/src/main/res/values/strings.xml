@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Safe Women Happy Women</string>
+    <string name="instruction">
+        1. Features of App : \n\n
+        2. Before going out : \n
+            \t -> Switch ON your Geolocation. \n
+            \t -> Take pepper spray or knife with you. \n\n
+        3. As you install this App : \n
+          \t  -> Run this app completely by using second device, to check all the utilities are working perfectly. \n
+          \t  -> Add Phone numbers of your closed ones, that can really help if you are in trouble. \n\n
+        4. Have knowledge about self defence and constitutional laws made for the well being of women. \n
+        Thanks.
+    </string>
+</resources>
