@@ -1,5 +1,6 @@
 Safe Women Happy Women
-An Android application, which can send message of your location to your closed ones and will redirect you to camera with one click.
+
+An Android application, which can send message of your location to your closed ones and will redirect you to camera in one click.
 This app can be beneficial in unsafe situations.
 
 Pre-Requisites :
